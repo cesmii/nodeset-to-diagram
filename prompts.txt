@@ -1,0 +1,3 @@
+in this folder is a nodeset describing the information model for a CNC. read in its classes and relationships and construct a mermaid class diagram.
+
+can you turn the logic you used into a general-purpose nodeset-to-diagram script? given a nodeset, spit out a diagram?
